@@ -16,4 +16,4 @@ If you don't have any Recycler View sample code, the code is easy and sample.
 3. Run the application in mobile or simulator.
 
 ## Credits
-**©** Neon | 2020
+**©** Wiseearl | 2020
